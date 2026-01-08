@@ -156,34 +156,11 @@ npm start
 
 ---
 
-### 📡 API Endpoints
-
-| Method | Endpoint              | Description              |
-|--------|-----------------------|--------------------------|
-| POST   | `/api/transactions`   | Add a transaction        |
-| GET    | `/api/transactions`   | List all transactions    |
-| GET    | `/api/alerts`         | Get smart finance alerts |
 
 
 
 ---
 
-### 🧠 Smart Alerts Logic (examples)
-
-- Rent > 50% of income → “⚠️ Rent is too high”
-- Overspending on Food → “⚠️ Watch your food budget”
-- Monthly savings decreasing → “⚠️ Saving trend down”
-
----
-
-### 📦 Future Improvements
-
-- Add charts with Chart.js
-- Monthly summaries
-- User authentication
-- Dark mode / responsive design
-
----
 
 ### 👨‍💻 Author
 
